@@ -28,7 +28,7 @@ An interactive web application built with React to help understand the Transform
 
 1. Clone the repository:
 ```bash
-git clone git@github.com:ansh-info/Transformers-Explained.git
+git clone https://github.com/ansh-info/Transformers-Explained.git
 cd Transformers-Explained
 ```
 
