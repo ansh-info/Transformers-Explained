@@ -3,7 +3,7 @@
 An interactive web application built with React to help understand the Transformer architecture, its evolution, and its impact on modern AI. This project provides visual explanations of key concepts in transformer models, including self-attention mechanisms, architectural comparisons, and performance metrics.
 
 #### Transformer Architecture
-![Transformers-Explained](images/Transformer-Architecture.png)
+![Transformers-Explained](images/Transformer-Architecture.jpeg)
 
 ## 🌟 Features
 
